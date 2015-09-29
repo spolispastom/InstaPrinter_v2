@@ -1,0 +1,10 @@
+Z:\Users\mihailkurenkov\GitHub\instaPrinterAPP\InstaPrinter_v2.0\InstaPrinter_v2.0\obj\Debug\InstaPrinter_v2.csprojResolveAssemblyReference.cache
+Z:\Users\mihailkurenkov\GitHub\instaPrinterAPP\InstaPrinter_v2.0\InstaPrinter_v2.0\obj\Debug\View\MainWindow.baml
+Z:\Users\mihailkurenkov\GitHub\instaPrinterAPP\InstaPrinter_v2.0\InstaPrinter_v2.0\obj\Debug\View\MainWindow.g.cs
+Z:\Users\mihailkurenkov\GitHub\instaPrinterAPP\InstaPrinter_v2.0\InstaPrinter_v2.0\obj\Debug\App.g.cs
+Z:\Users\mihailkurenkov\GitHub\instaPrinterAPP\InstaPrinter_v2.0\InstaPrinter_v2.0\obj\Debug\InstaPrinter_v2.0_MarkupCompile.cache
+Z:\Users\mihailkurenkov\GitHub\instaPrinterAPP\InstaPrinter_v2.0\InstaPrinter_v2.0\obj\Debug\InstaPrinter_v2.0.g.resources
+Z:\Users\mihailkurenkov\GitHub\instaPrinterAPP\InstaPrinter_v2.0\InstaPrinter_v2.0\obj\Debug\InstaPrinter_v2._0.Properties.Resources.resources
+Z:\Users\mihailkurenkov\GitHub\instaPrinterAPP\InstaPrinter_v2.0\InstaPrinter_v2.0\obj\Debug\InstaPrinter_v2.csproj.GenerateResource.Cache
+Y:\GitHub\InstaPrinter_v2.0\InstaPrinter_v2.0\bin\Debug\InstaPrinter_v2.0.exe.config
+Y:\GitHub\InstaPrinter_v2\InstaPrinter_v2.0\bin\Debug\InstaPrinter_v2.0.exe.config
